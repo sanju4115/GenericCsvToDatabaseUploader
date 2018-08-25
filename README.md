@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/release/qubyte/rubidium.svg)
 
-###Features
+### Features
 
 - Exposes an api through which csv can be uploaded with ease to database
 - Database update and insert both feature available
@@ -17,7 +17,7 @@ Details:
     
 
 
-####Endpoint Exposed
+#### Endpoint Exposed
 
 - Endpoint : /base/upload/genericUpdateOrInsert
 - Method: POST
